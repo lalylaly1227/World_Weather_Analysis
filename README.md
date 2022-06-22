@@ -5,6 +5,8 @@ In this challenge we are dealing with a mockup company called PlanMyTrip that is
 
 ### Deliverable 1: Retrieve Weather Data
 Generate a set of 2,000 random latitudes and longitudes, retrieve the nearest city, and perform an API call with the OpenWeatherMap. In addition to the city weather data you gathered in this module, use your API skills to retrieve the current weather description for each city. Then, create a new DataFrame containing the updated weather data.
+<img width="735" alt="Screen Shot 2022-06-21 at 8 13 45 PM" src="https://user-images.githubusercontent.com/105124485/174916849-ab280c70-d341-468d-98dd-324ee8938f9f.png">
+
 
 ### Deliverable 2: Create a Customer Travel Destinations Map
 Use input statements to retrieve customer weather preferences, then use those preferences to identify potential travel destinations and nearby hotels. Then, show those destinations on a marker layer map with pop-up markers.
